@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/mohammed-magdy-78b0a0108/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mmagdy97" height="30" width="40" /></a>
 <a href="https://wa.me/+201149504892/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="mmagdy97" height="30" width="40" /></a>
-<a href="https://x.com/mohamadmagdy97" target="blank"><img align="center" src="https://img.freepik.com/free-vector/new-2023-twitter-logo-x-icon-design_1017-45418.jpg?semt=ais_hybrid&w=740&q=80" alt="mmagdy97" height="30" width="40" /></a>
+<a href="https://x.com/mohamadmagdy97" target="blank"><img align="center" src="https://simpleicons.org/icons/x.svg" alt="mmagdy97" height="30" width="40" /></a>
 
 </p>
 
