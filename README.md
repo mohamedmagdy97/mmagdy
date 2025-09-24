@@ -1,4 +1,5 @@
-https://miro.medium.com/max/1400/1*vkfI4nFNheC5v0p7wzDtGg.gif
+![MasterHead](https://miro.medium.com/max/1400/1*vkfI4nFNheC5v0p7wzDtGg.gif)
+
 <h1 align="center">Hi 👋, I'm Mohamed Magdy</h1>
 <h3 align="center">Flutter developer</h3>
 
