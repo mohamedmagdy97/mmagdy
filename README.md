@@ -17,8 +17,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://x.com/mohamadmagdy97" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mazap64" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/mohammed-magdy-78b0a0108/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mazap64" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mohammed-magdy-78b0a0108/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mmagdy97" height="30" width="40" /></a>
+<a href="https://wa.me/+201149504892/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mmagdy97" height="30" width="40" /></a>
+<a href="https://x.com/mohamadmagdy97" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="mmagdy97" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
