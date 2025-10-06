@@ -1,7 +1,12 @@
 ![MasterHead](https://miro.medium.com/max/1400/1*vkfI4nFNheC5v0p7wzDtGg.gif)
 
-<h1 align="center">Hi 👋, I'm Mohamed Magdy</h1>
-<h3 align="center">Flutter developer</h3>
+<div align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Mohamed Magdy!+😎;" />
+</div>
+
+<div align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Flutter+developer!+👨‍💻;" />
+</div>
 
 
 - 🔭 I’m currently working on [Excellent Protection](https://excp.sa/)
@@ -20,6 +25,7 @@
 <a href="https://www.linkedin.com/in/mohammed-magdy-78b0a0108/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mmagdy97" height="30" width="40" /></a>
 <a href="https://wa.me/+201149504892/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="mmagdy97" height="30" width="40" /></a>
 <a href="https://x.com/mohamadmagdy97" target="blank"><img align="center" src="https://simpleicons.org/icons/x.svg" alt="mmagdy97" height="30" width="40" /></a>
+
 
 </p>
 
