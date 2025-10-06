@@ -8,14 +8,17 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=50&duration=4000&lines=Flutter+developer!+👨‍💻;" />
 </div>
 
+<p align="left">
 
 - 🔭 I’m currently working as a **Mobile Application Developer**.
 
 
 <p align="left">
+
 - 📫 How to reach me **[Email](mohammedmagdy823@gmail.com)**.
 
 <p align="left">
+
 - 📄 Know about my experiences **[CV](https://drive.google.com/file/d/1ujfIt2gxPuGJ05P0lhCz1CJjjwVUoVcP/view?usp=sharing)**
 
 
