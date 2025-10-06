@@ -13,12 +13,9 @@
 
 
 <p align="left">
-
-- 📫 How to reach me **mohammedmagdy823@gmail.com**
-- 👨‍💻 📫 How to reach me **[Email](mohammedmagdy823@gmail.com)**.
+- 📫 How to reach me **[Email](mohammedmagdy823@gmail.com)**.
 
 <p align="left">
-
 - 📄 Know about my experiences **[CV](https://drive.google.com/file/d/1ujfIt2gxPuGJ05P0lhCz1CJjjwVUoVcP/view?usp=sharing)**
 
 
