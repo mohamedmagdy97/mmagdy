@@ -63,8 +63,8 @@
 
 ## 💜 Views and Followers:
 
-<a href="https://github.com/Shalaby-VBS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=Shalaby-VBS">
+<a href="https://github.com/mohamedmagdy97/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=mohamedmagdy97">
 </a>
 <a href="https://github.com/mohamedmagdy97?tab=followers"><img src="https://img.shields.io/github/followers/mohamedmagdy97?label=Followers&style=social" alt="GitHub Badge"></a>
 <h3 align="center">
