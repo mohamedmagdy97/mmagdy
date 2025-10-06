@@ -1,23 +1,25 @@
 ![MasterHead](https://miro.medium.com/max/1400/1*vkfI4nFNheC5v0p7wzDtGg.gif)
 
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Mohamed+Magdy!+😎;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=50&duration=4000&lines=Hi+There!+👋;+I'm+Mohamed+Magdy!+😎;" />
 </div>
 
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Flutter+developer!+👨‍💻;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=50&duration=4000&lines=Flutter+developer!+👨‍💻;" />
 </div>
 
 
-- 🔭 I’m currently working on [Excellent Protection](https://excp.sa/)
+- 🔭 I’m currently working as a **Mobile Application Developer**.
+
 
 <p align="left">
 
 - 📫 How to reach me **mohammedmagdy823@gmail.com**
+- 👨‍💻 📫 How to reach me **[Email](mohammedmagdy823@gmail.com)**.
 
 <p align="left">
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ujfIt2gxPuGJ05P0lhCz1CJjjwVUoVcP/view?usp=sharing](https://drive.google.com/file/d/1ujfIt2gxPuGJ05P0lhCz1CJjjwVUoVcP/view?usp=sharing)
+- 📄 Know about my experiences **[CV](https://drive.google.com/file/d/1ujfIt2gxPuGJ05P0lhCz1CJjjwVUoVcP/view?usp=sharing)**
 
 
 <h3 align="left">Connect with me:</h3>
