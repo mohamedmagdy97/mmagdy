@@ -67,34 +67,4 @@
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+❤️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab">
 </h3>
-
-<br/>
-
- <h2 align="center">GitHub Readme Stats</h2>
- <p align="center">Get dynamically generated GitHub stats on your READMEs!</p>
-</p>
-  <p align="center">
-    <a href="https://github.com/mohamedmagdy97/mmagdy/actions">
-      <img alt="Tests Passing" src="https://github.com/mohamedmagdy97/mmagdy/workflows/Test/badge.svg" />
-    </a>
-    <a href="https://github.com/mohamedmagdy97/mmagdy/graphs/contributors">
-      <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/mohamedmagdy97/mmagdy" />
-    </a>
-    <a href="https://codecov.io/gh/mohamedmagdy97/mmagdy">
-      <img alt="Tests Coverage" src="https://codecov.io/gh/mohamedmagdy97/mmagdy/branch/master/graph/badge.svg" />
-    </a>
-    <a href="https://github.com/mohamedmagdy97/mmagdy/issues">
-      <img alt="Issues" src="https://img.shields.io/github/issues/mohamedmagdy97/mmagdy?color=0088ff" />
-    </a>
-    <a href="https://github.com/mohamedmagdy97/mmagdy/pulls">
-      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/mohamedmagdy97/mmagdy?color=0088ff" />
-    </a>
-    <a href="https://securityscorecards.dev/viewer/?uri=github.com/mohamedmagdy97/mmagdy">
-      <img alt="OpenSSF Scorecard" src="https://api.securityscorecards.dev/projects/github.com/mohamedmagdy97/mmagdy/badge" />
-    </a>
-    <br />
-    <br />
-    <a href="https://vercel.com?utm\_source=github\_readme\_stats\_team\&utm\_campaign=oss">
-      <img src="./powered-by-vercel.svg"/>
-    </a>
-  </p>
+ 
